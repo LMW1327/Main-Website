@@ -1,0 +1,128 @@
+/* Body */
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.container {
+  background-color: #EEE;
+  position: relative;
+  padding-top: 75px;
+}
+
+.bottom-container {
+  background-color: #EEE;
+}
+
+.skill-row {
+  margin: 15px auto 15px;
+  width: 75%;
+  line-height: 1.5;
+}
+
+/*Text */
+h1 {
+  margin: 0 auto 10px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 400%;
+  font-weight: normal;
+  line-height: 0.85;
+  color: #092532;
+}
+
+.first-introduction {
+  font-family: 'Raleway', sans-serif;
+  color: #092532;
+  margin-bottom: 0;
+}
+
+h2 {
+  margin-top: 20px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.5em;
+  color: #092532;
+}
+
+h3 {
+  margin-top: 20px;
+  font-family: 'Oswald', sans-serif;
+  color: #092532;
+}
+
+p {
+  font-family: 'Lora', serif;
+  font-size: 1.15em;
+  color: #4F8A8B;
+  line-height: 1.5;
+  margin: auto;
+  width: 50%;
+}
+
+hr {
+  border-color: #D8D3CD;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 75%;
+  margin: 25px auto;
+}
+
+.divider {
+  width: 25%
+}
+
+a {
+  color: #4F8A8B;
+  font-family: 'Lora', serif;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.copyright {
+  color: #CDAE5C;
+  font-weight: 600;
+}
+
+/* Pictures */
+.showing-top {
+  position: absolute;
+  right: 5%;
+  top: 5%;
+  height: 100px;
+  width: 100px;
+  max-width: 700px;
+}
+
+.showing-bottom {
+  position: absolute;
+  left: 5%;
+  bottom: 5%;
+  height: 100px;
+  width: 100px;
+  max-width: 700px;
+}
+
+.main-picture {
+  border-radius: 100px;
+  height: 500px;
+  width: 600px;
+  border: solid 5px #4F8A8B;
+}
+
+.skills-pictures-1 {
+  width: 35%;
+  margin: 15px auto 15px;
+}
+
+.skills-pictures-2 {
+  width: 25%;
+  margin: 15px auto 15px;
+}
+
+.footer-link {
+  height: 50px;
+  width: 50px;
+  margin: 5px auto;
+}
